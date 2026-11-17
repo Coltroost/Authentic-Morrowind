@@ -1,0 +1,248 @@
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Cells]
+preload doors = false
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[GUI]
+color topic enable = true
+stretch menu background = true
+subtitles = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+for_mods = [
+  "Weapon Sheathing",
+]
+on_lists = ["authentic-morrowind"]
+text = """
+[Game]
+shield sheathing = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+for_mods = [
+  "OpenMW Dynamic Animations",
+]
+on_lists = ["authentic-morrowind"]
+text = """
+[Game]
+use additional anim sources = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+for_mods = [
+  "Weapon Sheathing",
+]
+on_lists = ["authentic-morrowind"]
+text = """
+[Game]
+weapon sheathing = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Game]
+NPCs avoid collisions = true
+barter disposition change is permanent = true
+normalise race speed = false
+player movement ignores animation = true
+prevent merchant equipping = true
+rebalance soul gem values = true
+show effect duration = true
+show enchant chance = true
+show melee info = true
+show projectile damage = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+for_mods = [
+  "Can't Touch This - Combat Miss Feedback (OpenMW)",
+]
+on_lists = ["authentic-morrowind"]
+text = """
+[Game]
+smooth animation transitions = true
+smooth movement = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Game]
+swim upward correction = true
+turn to movement direction = true
+use magic item animations = true
+best attack = true
+show owned = 1
+classic reflected absorb spells behavior = false
+can loot during death animation = false
+strength influences hand to hand = 2
+trainers training skills based on base skill = true
+uncapped damage fatigue = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[General]
+anisotropy = 16
+texture mipmap = linear
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Lua]
+lua profiler = false
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Navigator]
+max navmeshdb file size = 8589934592
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Post Processing]
+enabled = true
+chain = HBAO,simple_distant_blur,VAIO,godrays,DIVE,wetworld,tonemap,SMAA
+transparent postpass = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Shaders]
+antialias alpha test = true
+apply lighting to environment maps = true
+auto use object normal maps = true
+auto use object specular maps = true
+auto use terrain normal maps = true
+auto use terrain specular maps = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+for_mods = [
+  "OpenMW More Dynamic Water Meshes",
+]
+on_lists = ["authentic-morrowind"]
+text = """
+[Shaders]
+soft particles = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Shaders]
+weather particle occlusion = true
+force per pixel lighting = true
+match sunlight to sun = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Camera]
+viewing distance = 16384
+field of view = 60
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Fog]
+exponential fog = true
+radial fog = true
+sky blending = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Map]
+allow zooming = true
+global = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Shadows]
+actor shadows = true
+enable shadows = true
+object shadows = true
+player shadows = true
+shadow map resolution = 2048
+terrain shadows = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Terrain]
+distant terrain = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Video]
+antialiasing = 8
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[Water]
+rain ripple detail = 2
+reflection detail = 4
+refraction = true
+rtt size = 2048
+shader = true
+"""
+
+[[extra_cfg]]
+in_settings = true
+on_lists = ["authentic-morrowind"]
+text = """
+[HUD]
+crosshair = false
+"""
+
+[[extra_cfg]]
+on_lists = ["authentic-morrowind"]
+text = """
+fallback-archive=dynamicsounds.bsa
+"""

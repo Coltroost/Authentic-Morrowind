@@ -1,0 +1,817 @@
+- for_mod: Morrowind
+  extra_dirs:
+  - Data Files
+  on_lists:
+  - authentic-morrowind
+- for_mod: Patch for Purists
+  on_lists:
+  - authentic-morrowind
+- for_mod: Unofficial Morrowind Official Plugins Patched
+  extra_dirs:
+  - 00 adamantium armor
+  - 01 area effect arrows
+  - 02 bitter coast sounds
+  - 03 entertainers
+  - 04 helm of tohan
+  - 05 lefemm armor
+  on_lists:
+  - authentic-morrowind
+- for_mod: Master Index Reloaded
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tamriel Data
+  extra_dirs:
+  - 00 Data Files
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tamriel Rebuilt
+  extra_dirs:
+  - 00 Core
+  on_lists:
+  - authentic-morrowind
+- for_mod: Project Cyrodiil
+  on_lists:
+  - authentic-morrowind
+- for_mod: 'Skyrim: Home of the Nords'
+  on_lists:
+  - authentic-morrowind
+- for_mod: Distant Ebon Tower for OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind Optimization Patch
+  extra_dirs:
+  - 00 Core
+  - 01 Lake Fjalding Anti-Suck
+  - 04 Better Vanilla Textures
+  on_lists:
+  - authentic-morrowind
+- for_mod: Graphic Herbalism - MWSE and OpenMW Edition
+  extra_dirs:
+  - 00 Core + Vanilla Meshes
+  - 01 Optional - Smoothed Meshes
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind Optimization Patch
+  extra_dirs:
+  - 05 Graphic Herbalism Patch
+  on_lists:
+  - authentic-morrowind
+- for_mod: Graphic Herbalism - MWSE and OpenMW Edition
+  extra_dirs:
+  - 00 Correct UV Ore + README
+  on_lists:
+  - authentic-morrowind
+- for_mod: Project Atlas
+  extra_dirs:
+  - 00 Core
+  - 01 Textures - MET
+  - 02 Urns - Smoothed
+  - 03 Redware - Smoothed
+  - 04 Emperor Parasols - Smoothed
+  - 07 Graphic Herbalism Patch
+  on_lists:
+  - authentic-morrowind
+- for_mod: Jammings Off
+  extra_dirs:
+  - Jammings off(v1.1)/ver1.0(only_Xnif_files)/Data Files
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind Enhanced Textures
+  extra_dirs:
+  - MET 6-1 main
+  - Interface
+  - atlas
+  on_lists:
+  - authentic-morrowind
+- for_mod: Familiar Faces by Caleb
+  on_lists:
+  - authentic-morrowind
+- for_mod: Faceliftfor Tamriel Data
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW Containers Animated
+  extra_dirs:
+  - Containers Animated
+  - Optional/kollops
+  on_lists:
+  - authentic-morrowind
+- for_mod: Fixed Bonelord Arms
+  on_lists:
+  - authentic-morrowind
+- for_mod: Necrom Arkitektora of Morrowind
+  extra_dirs:
+  - HQ/Textures
+  on_lists:
+  - authentic-morrowind
+- for_mod: Necrom Arkitektora of Morrowind
+  extra_dirs:
+  - NecromMinorMeshesFixes
+  on_lists:
+  - authentic-morrowind
+- for_mod: Weapon Sheathing
+  extra_dirs:
+  - Data Files
+  on_lists:
+  - authentic-morrowind
+- for_mod: Weapon Sheathing Additions
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind Optimization Patch
+  extra_dirs:
+  - 02 Weapon Sheathing Patch
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tamriel Rebuilt Original Soundtrack
+  extra_dirs:
+  - 00 core
+  on_lists:
+  - authentic-morrowind
+- for_mod: 'Distant Fixes: Lua Edition'
+  on_lists:
+  - authentic-morrowind
+- for_mod: Distant Seafloor for OpenMW
+  extra_dirs:
+  - 00 Core
+  - 01 Patch for vanilla Solstheim location
+  on_lists:
+  - authentic-morrowind
+- for_mod: Glow in the Dahrk
+  extra_dirs:
+  - 00 Core
+  - 01 Hi Res Window Texture Replacer
+  - 03 Telvanni Dormers on Vvardenfell
+  - 04 Raven Rock Glass Windows
+  - 07 Telvanni Tower Interior Glow OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: Project Atlas
+  extra_dirs:
+  - 06 Glow in the Dahrk Patch
+  on_lists:
+  - authentic-morrowind
+- for_mod: Nords Shut Your Windows
+  extra_dirs:
+  - 00 Core
+  - 05 Purist Sunrays
+  on_lists:
+  - authentic-morrowind
+- for_mod: Vanilla Style HD Icons for Attributes and Skills
+  on_lists:
+  - authentic-morrowind
+- for_mod: Alternative TrueType Fonts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Big Icons
+  extra_dirs:
+  - 07 8X Textured
+  on_lists:
+  - authentic-morrowind
+- for_mod: MOMW Tools Pack
+  on_lists:
+  - authentic-morrowind
+- for_mod: Max Yari's Script Services
+  on_lists:
+  - authentic-morrowind
+- for_mod: Zerkish ModUtils (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Follower Detection Util (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Zerkish AutoSave (For OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind High Def Splash Screen and Menu Replacers
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind High Def Splash Screen and Menu Replacers
+  on_lists:
+  - authentic-morrowind
+- for_mod: OAAB_Data
+  on_lists:
+  - authentic-morrowind
+- for_mod: OAAB_Data
+  extra_dirs:
+  - 00 Core
+  - 06 Animated Containers
+  - 08 GitD Shacks Patch
+  on_lists:
+  - authentic-morrowind
+- for_mod: OAAB_Data
+  on_lists:
+  - authentic-morrowind
+- for_mod: Correct UV Rocks
+  on_lists:
+  - authentic-morrowind
+- for_mod: Creature VFX restoration
+  on_lists:
+  - authentic-morrowind
+- for_mod: No-Frills Open Vivec
+  on_lists:
+  - authentic-morrowind
+- for_mod: Ownership Overhaul
+  on_lists:
+  - authentic-morrowind
+- for_mod: Quick Char Polished
+  on_lists:
+  - authentic-morrowind
+- for_mod: Arrive Whenever - Start Time and Timescale for OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: Expansion Delay
+  on_lists:
+  - authentic-morrowind
+- for_mod: Solstheim Rumor Fix - Fixed - Fixed
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morag Tong Attacks
+  on_lists:
+  - authentic-morrowind
+- for_mod: The Publicans
+  on_lists:
+  - authentic-morrowind
+- for_mod: Greetings for No Lore
+  on_lists:
+  - authentic-morrowind
+- for_mod: Djangos Dialogue 1.4
+  on_lists:
+  - authentic-morrowind
+- for_mod: Djangos Dialogue - Tamriel Rebuilt patch
+  on_lists:
+  - authentic-morrowind
+- for_mod: Legion Uniform Apathy
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Hospitality Papers Expanded
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Misc
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Current Councilors
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Nice to Meet You
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - NotAllDunmer
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Service Refusal and Contraband
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Legion Dialogue
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Athyn and Shardie
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMBP - Michael Michael Michael
+  on_lists:
+  - authentic-morrowind
+- for_mod: Empty Threats Disabler
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tunnel Cough
+  on_lists:
+  - authentic-morrowind
+- for_mod: Idle Talk
+  on_lists:
+  - authentic-morrowind
+- for_mod: Vanilla Voices Unlocked
+  on_lists:
+  - authentic-morrowind
+- for_mod: Faction Voiced Greetings
+  on_lists:
+  - authentic-morrowind
+- for_mod: Great Service
+  on_lists:
+  - authentic-morrowind
+- for_mod: Silent Assassins
+  on_lists:
+  - authentic-morrowind
+- for_mod: Same Low Price Fix
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sheep-no-More
+  on_lists:
+  - authentic-morrowind
+- for_mod: Outlander Yourself
+  on_lists:
+  - authentic-morrowind
+- for_mod: LDM - Balmora Rumour Fix
+  on_lists:
+  - authentic-morrowind
+- for_mod: LDM - Racist Service Refusal
+  on_lists:
+  - authentic-morrowind
+- for_mod: LDM - Context Matters
+  on_lists:
+  - authentic-morrowind
+- for_mod: Honorable Dagoth - Courtesy of the First Blow
+  on_lists:
+  - authentic-morrowind
+- for_mod: Store Entrance Chimes
+  on_lists:
+  - authentic-morrowind
+- for_mod: Store Entrance Chimes for Cyrodiil and TR Mainland
+  on_lists:
+  - authentic-morrowind
+- for_mod: Store Entrance Chimes for Cyrodiil and TR Mainland
+  on_lists:
+  - authentic-morrowind
+- for_mod: Silt Strider Animation Restored
+  on_lists:
+  - authentic-morrowind
+- for_mod: Canonical Gear (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Unique Uniques
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind Anti-Cheese
+  on_lists:
+  - authentic-morrowind
+- for_mod: Beware the Sixth House (Sixth House Overhaul)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tribunal Rebalance
+  on_lists:
+  - authentic-morrowind
+- for_mod: Bloodmoon Rebalance
+  on_lists:
+  - authentic-morrowind
+- for_mod: MDMD - More Deadly Morrowind Denizens
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tamriel ReBalanced - Deadlier Denizens
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind Quests Redux
+  on_lists:
+  - authentic-morrowind
+- for_mod: The Missing Class - Mananaut
+  on_lists:
+  - authentic-morrowind
+- for_mod: Fairer Weapon and Magic Experience Gains for Sane People
+  on_lists:
+  - authentic-morrowind
+- for_mod: Slower Leveling Speed (an ideal Tamriel Rebuilt add-on)
+  on_lists:
+  - authentic-morrowind
+- for_mod: State-Based HP - Lua
+  on_lists:
+  - authentic-morrowind
+- for_mod: State-Based Magicka Regen (SBMR)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Movement Fatigue Halved
+  on_lists:
+  - authentic-morrowind
+- for_mod: Rest and Sleep Recovery Options (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Less Spammable Persuasion
+  on_lists:
+  - authentic-morrowind
+- for_mod: Speechcraft Rebalance (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Better Balanced Booze
+  on_lists:
+  - authentic-morrowind
+- for_mod: Adamantium Weapon Adjustments
+  on_lists:
+  - authentic-morrowind
+- for_mod: Rafael's Shader Pack
+  on_lists:
+  - authentic-morrowind
+- for_mod: Devilish Snow (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Devilish Ash (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW Dynamic Ambient Visual Effects
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW Distortion Effects
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW Distortion Effects
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW) Raindrops On Screen
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW Immersive Eyes-Body Reactions
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW) Blood On Screen
+  on_lists:
+  - authentic-morrowind
+- for_mod: Simple Distant Blur Shader for OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: Rock The Boat - Dynamic Camera Rocking for OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW) Leave The Lights Off
+  on_lists:
+  - authentic-morrowind
+- for_mod: Animated Lanterns and Signs -- OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: Hit Reactions Animated -- OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: Can't Touch This - Combat Miss Feedback (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Pet the Scribs REVOLUTION - OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: Repopulated Creatures
+  on_lists:
+  - authentic-morrowind
+- for_mod: Over-the-Shoulder Combat Stance (OpenMW Camera script edit)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Over-the-Shoulder Combat Stance (OpenMW Camera script edit)
+  extra_dirs:
+  - vfs
+  on_lists:
+  - authentic-morrowind
+- for_mod: TimeHUD - A Clock UI widget
+  on_lists:
+  - authentic-morrowind
+- for_mod: Friendlier Fire (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Best Friends Forever (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Dynamic Reticle - Enemy HP bar. Hitmarkers. HUD effects. Sound effects. Slow-mo. -- OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: The Combat Juice
+  on_lists:
+  - authentic-morrowind
+- for_mod: They Bleed -- immersive blood effects -- OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW 0.49) Floating Healthbars
+  on_lists:
+  - authentic-morrowind
+- for_mod: Dynamic camera - Immersive 1st and 3rd person camera effects and target lock -- OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sneak is Good Now. -- OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: Larger Minimap OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: Larger Minimap OpenMW
+  extra_dirs:
+  - vfs
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW 0.49) Better Bars
+  on_lists:
+  - authentic-morrowind
+- for_mod: HUD Weapon Charge (For OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Ammo Count HUD (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW 0.49) HUDMarkers
+  on_lists:
+  - authentic-morrowind
+- for_mod: Critical Health Vignette (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Completionist - A Morrowind Quest Tracker
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW Skyrim Style Quest Notifications
+  on_lists:
+  - authentic-morrowind
+- for_mod: QuickSelect Ultimate
+  on_lists:
+  - authentic-morrowind
+- for_mod: Nine-holes
+  on_lists:
+  - authentic-morrowind
+- for_mod: TR Newspapers on Vvardenfell
+  on_lists:
+  - authentic-morrowind
+- for_mod: PTR Tapestries and EEC assets on Vvardenfell
+  on_lists:
+  - authentic-morrowind
+- for_mod: Signs for the Signless
+  on_lists:
+  - authentic-morrowind
+- for_mod: Less Awful Pauldrons
+  on_lists:
+  - authentic-morrowind
+- for_mod: No More Dwemer Bee-bottom
+  on_lists:
+  - authentic-morrowind
+- for_mod: Less Awful Boots
+  on_lists:
+  - authentic-morrowind
+- for_mod: ( Aaron's Ambient Rain Replacer for Morrowind
+  on_lists:
+  - authentic-morrowind
+- for_mod: Aaron's Ambient Thunder Replacer for Morrowind
+  on_lists:
+  - authentic-morrowind
+- for_mod: Behaviour Tree Lua 2nd Edition
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW) Hit and Miss Percentage Indicators for Melee Combat
+  on_lists:
+  - authentic-morrowind
+- for_mod: Mercy - Combat AI Overhaul
+  on_lists:
+  - authentic-morrowind
+- for_mod: Take Cover (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Devilish Eyes On You (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Protective Guards (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW) Protective Guards - Factions Addon
+  on_lists:
+  - authentic-morrowind
+- for_mod: Npcs and Creatures Rest (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Ghostfence Zone - Levitation Restriction (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: We Don't Go To Red Mountain - Ghostgate Locked
+  on_lists:
+  - authentic-morrowind
+- for_mod: SnowySheogorad
+  on_lists:
+  - authentic-morrowind
+- for_mod: Expanding Blight (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Expanding Blight (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: No Fires in Bad Weather - OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: Red Mountain Tremors 2.0 - OpenMW
+  on_lists:
+  - authentic-morrowind
+- for_mod: It Beats (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Devilish Birds (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Maxar's Dynamic Footsteps Sounds (OpenMw 0.49)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Dynamic Sounds Phoenix
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW Dynamic Animations
+  on_lists:
+  - authentic-morrowind
+- for_mod: Magic Hands (idle spell effects)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sorry We're Closed - Nighttime Service Refusal
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sorry We're Closed - Nighttime Service Refusal
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sorry Too Stormy - Blight Only
+  on_lists:
+  - authentic-morrowind
+- for_mod: Arrow Stick (OpenMW)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Under Construction
+  on_lists:
+  - authentic-morrowind
+- for_mod: Slightly Higher Baar Dau
+  on_lists:
+  - authentic-morrowind
+- for_mod: Prerelease Prisonmoon
+  on_lists:
+  - authentic-morrowind
+- for_mod: Furled Sails for Ships
+  on_lists:
+  - authentic-morrowind
+- for_mod: Dubdilla Location Fix
+  on_lists:
+  - authentic-morrowind
+- for_mod: Minor Corprusarium Refit
+  on_lists:
+  - authentic-morrowind
+- for_mod: Divayth Fyr Puzzle Fixed
+  on_lists:
+  - authentic-morrowind
+- for_mod: Cavern Refit
+  on_lists:
+  - authentic-morrowind
+- for_mod: Cavern Refit
+  on_lists:
+  - authentic-morrowind
+- for_mod: Minor Tukushapal Refit
+  on_lists:
+  - authentic-morrowind
+- for_mod: Mine Refit
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sixth House Minor Bases Refit
+  on_lists:
+  - authentic-morrowind
+- for_mod: Urshilaku Burials Refit
+  on_lists:
+  - authentic-morrowind
+- for_mod: Velothi Tower Refit
+  on_lists:
+  - authentic-morrowind
+- for_mod: Verdant Bitter Coast - Fern Trees
+  on_lists:
+  - authentic-morrowind
+- for_mod: Vanilla Morrowind Trees - Animated
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tamriel Data Trees - Animated
+  on_lists:
+  - authentic-morrowind
+- for_mod: Verdant Bitter Coast - Fern Trees
+  on_lists:
+  - authentic-morrowind
+- for_mod: Azura CC
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sadrith Mora to Tel Aruhn Boat Travel
+  on_lists:
+  - authentic-morrowind
+- for_mod: Guar stables of Balmora
+  on_lists:
+  - authentic-morrowind
+- for_mod: Guar Stables of Vivec
+  on_lists:
+  - authentic-morrowind
+- for_mod: Arano Plantation Windmill
+  on_lists:
+  - authentic-morrowind
+- for_mod: Redoran ruins in Suran - minor cosmetic details
+  on_lists:
+  - authentic-morrowind
+- for_mod: Suran Bridge
+  on_lists:
+  - authentic-morrowind
+- for_mod: No-Frills Closed Molag Mar
+  on_lists:
+  - authentic-morrowind
+- for_mod: Caldera Palisade
+  on_lists:
+  - authentic-morrowind
+- for_mod: More Indoril Indoril Settlements
+  on_lists:
+  - authentic-morrowind
+- for_mod: More Indoril Indoril Settlements
+  on_lists:
+  - authentic-morrowind
+- for_mod: More Indoril Indoril Settlements
+  on_lists:
+  - authentic-morrowind
+- for_mod: More Indoril Indoril Settlements
+  on_lists:
+  - authentic-morrowind
+- for_mod: Shabby Seyda Neen
+  on_lists:
+  - authentic-morrowind
+- for_mod: Seyda Neen Census and Excise Office Window Fix
+  on_lists:
+  - authentic-morrowind
+- for_mod: Concept Art Palace (Vivec City)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Concept Art Palace (Vivec City)
+  on_lists:
+  - authentic-morrowind
+- for_mod: Better Flames for Concept Art Palace (Vivec City) - OpenMW Version
+  on_lists:
+  - authentic-morrowind
+- for_mod: Distant Mournhold
+  on_lists:
+  - authentic-morrowind
+- for_mod: Silent Mournhold
+  on_lists:
+  - authentic-morrowind
+- for_mod: Concept art Hlaalu Balconies
+  on_lists:
+  - authentic-morrowind
+- for_mod: Balmora Morag Tong Guildhall Redone
+  on_lists:
+  - authentic-morrowind
+- for_mod: Minor Balmora Fixes
+  on_lists:
+  - authentic-morrowind
+- for_mod: Minor Balmora Fixes
+  on_lists:
+  - authentic-morrowind
+- for_mod: Fyr's Daughters Redone
+  on_lists:
+  - authentic-morrowind
+- for_mod: Nordic Dagon Fel NPCs
+  on_lists:
+  - authentic-morrowind
+- for_mod: NPC Overhaul - Balmora
+  on_lists:
+  - authentic-morrowind
+- for_mod: NPC Overhaul - Ald'ruhn
+  on_lists:
+  - authentic-morrowind
+- for_mod: NPC Overhaul - Sadrith Mora
+  on_lists:
+  - authentic-morrowind
+- for_mod: NPC Overhaul - Tribunal
+  on_lists:
+  - authentic-morrowind
+- for_mod: Watchmen on Vvardenfell
+  on_lists:
+  - authentic-morrowind
+- for_mod: Diverse Khajiit
+  on_lists:
+  - authentic-morrowind
+- for_mod: OAAB Full Upscale
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tamriel Data Texture Upscale
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind Enhanced Textures
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind Enhanced Textures
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind Enhanced Textures
+  on_lists:
+  - authentic-morrowind
+- for_mod: How I Shot Web
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sotha Sil is a Dunmer
+  on_lists:
+  - authentic-morrowind
+- for_mod: Unique faces for Tamriel Data
+  on_lists:
+  - authentic-morrowind
+- for_mod: Orange Narsis - Shipal-Shin wall retexture
+  on_lists:
+  - authentic-morrowind
+- for_mod: Atlased Orange Narsis
+  on_lists:
+  - authentic-morrowind
+- for_mod: Atlased Orange Narsis
+  on_lists:
+  - authentic-morrowind
+- for_mod: TR Data Painting Edits
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tamriel Data Water Retextured
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tamriel Data Water Retextured
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW More Dynamic Water Meshes
+  on_lists:
+  - authentic-morrowind
+- for_mod: Dagoth Ur Blight Cloud Shader Compatibility
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW - Controller Interface Overhaul
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW - Controller Interface Overhaul
+  extra_dirs:
+  - vfs
+  on_lists:
+  - authentic-morrowind
+- for_mod: S3maphore - OpenMW Music Management from the Future
+  extra_dirs:
+  - 00 Core
+  - 14 General Dungeon
+  on_lists:
+  - authentic-morrowind

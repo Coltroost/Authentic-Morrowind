@@ -1,0 +1,1907 @@
+[
+  {
+    "for_mod": "Patch for Purists",
+    "name": "Patch for Purists",
+    "extract_to": "PatchforPurists",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Unofficial Morrowind Official Plugins Patched",
+    "name": "Unofficial Morrowind Official Plugins Patched",
+    "extract_to": "UnofficialMorrowindOfficialPluginsPatched",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Master Index Reloaded",
+    "name": "Master Index Reloaded",
+    "extract_to": "MasterIndexReloaded",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Tamriel Data",
+    "name": "Tamriel Data",
+    "extract_to": "TamrielData",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Tamriel Rebuilt",
+    "name": "Tamriel Rebuilt 26.11.01",
+    "extract_to": "TamrielRebuilt",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Project Cyrodiil",
+    "name": "Cyr_Main",
+    "extract_to": "ProjectCyrodiil",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Skyrim: Home of the Nords",
+    "name": "Sky_Main",
+    "extract_to": "SkyrimHomeOfTheNords",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Distant Ebon Tower for OpenMW",
+    "name": "Distant Ebon Tower",
+    "extract_to": "DistantEbonTowerforOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Morrowind Optimization Patch",
+    "name": "Morrowind Optimization Patch",
+    "extract_to": "MorrowindOptimizationPatch",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Graphic Herbalism - MWSE and OpenMW Edition",
+    "name": "Graphic Herbalism MWSE - OpenMW",
+    "extract_to": "GraphicHerbalismMWSEandOpenMWEdition",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Graphic Herbalism - MWSE and OpenMW Edition",
+    "name": "GH Patches and Replacers",
+    "extract_to": "GraphicHerbalismMWSEandOpenMWEdition",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Project Atlas",
+    "name": "Project Atlas",
+    "extract_to": "ProjectAtlas",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Jammings Off",
+    "name": "Jammings_off",
+    "extract_to": "JammingsOff",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Morrowind Enhanced Textures",
+    "name": "Morrowind Enhanced Textures 6.1",
+    "extract_to": "MorrowindEnhancedTextures",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Morrowind Enhanced Textures",
+    "name": "MET - Interface and main menu",
+    "extract_to": "MorrowindEnhancedTextures",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Morrowind Enhanced Textures",
+    "name": "MET 6 Atlas textures",
+    "extract_to": "MorrowindEnhancedTextures",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Familiar Faces by Caleb",
+    "name": "Familiar Faces",
+    "extract_to": "FamiliarFacesbyCaleb",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Faceliftfor Tamriel Data",
+    "name": "Facelift_TR_Meshes",
+    "extract_to": "FaceliftforTamrielData",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Faceliftfor Tamriel Data",
+    "name": "Facelift_TR_Textures",
+    "extract_to": "FaceliftforTamrielData",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "OpenMW Containers Animated",
+    "name": "OpenMW Containers Animated",
+    "extract_to": "OpenMWContainersAnimated",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Fixed Bonelord Arms",
+    "name": "Fixed Bonelord Arms",
+    "extract_to": "FixedBonelordArms",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Necrom Arkitektora of Morrowind",
+    "name": "Necrom Arkitektora - HQ",
+    "extract_to": "NecromArkitektoraofMorrowind",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Necrom Arkitektora of Morrowind",
+    "name": "Necrom Minor Meshes Fixes",
+    "extract_to": "NecromArkitektoraofMorrowind/NecromMinorMeshesFixes",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Weapon Sheathing",
+    "name": "WeaponSheathing1.6-OpenMW",
+    "extract_to": "WeaponSheathing",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Weapon Sheathing Additions",
+    "name": "Weapon Sheathing Additions",
+    "extract_to": "WeaponSheathingAdditions",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Tamriel Rebuilt Original Soundtrack",
+    "name": "Tamriel Rebuilt Soundtrack",
+    "extract_to": "TamrielRebuiltOriginalSoundtrack",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Distant Fixes: Lua Edition",
+    "name": "Distant Fixes: Lua Edition",
+    "extract_to": "DistantFixesLuaEdition",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Distant Seafloor for OpenMW",
+    "name": "Distant_Seafloor_2.01",
+    "extract_to": "DistantSeafloorforOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Glow in the Dahrk",
+    "name": "Glow in the Dahrk",
+    "extract_to": "GlowintheDahrk",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Nords Shut Your Windows",
+    "name": "Nords shut your windows",
+    "extract_to": "Nordsshutyourwindows",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Vanilla Style HD Icons for Attributes and Skills",
+    "name": "Vanilla Style HD Icons for Attributes and Skills",
+    "nexus_file_id": 1000050961,
+    "extract_to": "VanillaStyleHDIconsforAttributesandSkills",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Alternative TrueType Fonts",
+    "name": "Alternative TrueType Fonts",
+    "extract_to": "AlternativeTrueTypeFonts",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Big Icons",
+    "name": "Big Icons - OpenMW",
+    "extract_to": "BigIcons",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "MOMW Tools Pack",
+    "name": "MOMW Tools Pack",
+    "extract_to": "MOMWToolsPack",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Max Yari's Script Services",
+    "name": "Max Yari Script Services (MSS)",
+    "extract_to": "MaxYarisScriptServices",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Zerkish ModUtils (OpenMW)",
+    "name": "ZModUtils",
+    "extract_to": "ZerkishModUtilsOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Follower Detection Util (OpenMW)",
+    "name": "Follower Detection Util",
+    "extract_to": "FollowerDetectionUtilOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Zerkish AutoSave (For OpenMW)",
+    "name": "Zerkish AutoSave",
+    "extract_to": "ZerkishAutoSaveForOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Morrowind High Def Splash Screen and Menu Replacers",
+    "name": "Morrowind High Def Splash Screen Replacers - Reup.",
+    "extract_to": "MorrowindHighDefSplashScreenandMenuReplacers",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Morrowind High Def Splash Screen and Menu Replacers",
+    "name": "Morrowind High Def Menu 02 - No DLC",
+    "extract_to": "MorrowindHighDefSplashScreenandMenuReplacers",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "OAAB_Data",
+    "name": "OAAB_Data",
+    "extract_to": "OAABData",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "OAAB_Data",
+    "name": "OAAB_Data (HD)",
+    "extract_to": "OAABData",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Correct UV Rocks",
+    "name": "Correct_UV_Rocks_1.8",
+    "extract_to": "CorrectUVRocks",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Creature VFX restoration",
+    "name": "Creature VFX restoration",
+    "extract_to": "CreatureVFXrestoration",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "No-Frills Open Vivec",
+    "name": "No-Frills Open Vivec",
+    "extract_to": "NoFrillsOpenVivec",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Ownership Overhaul",
+    "name": "Ownership Overhaul",
+    "extract_to": "OwnershipOverhaul",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Quick Char Polished",
+    "name": "QuickChar Polished",
+    "extract_to": "QuickCharPolished",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Arrive Whenever - Start Time and Timescale for OpenMW",
+    "name": "Arrive Whenever",
+    "extract_to": "ArriveWheneverStartTimeandTimescaleforOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Expansion Delay",
+    "name": "Expansion Delay",
+    "extract_to": "ExpansionDelay",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Solstheim Rumor Fix - Fixed - Fixed",
+    "name": "Solstheim Rumor Fix - Fixed - Fixed",
+    "extract_to": "SolstheimRumorFixFixedFixed",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Morag Tong Attacks",
+    "name": "Morag Tong Attacks",
+    "extract_to": "MoragTongAttacks",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "The Publicans",
+    "name": "The Publicans",
+    "extract_to": "ThePublicans",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Greetings for No Lore",
+    "name": "Greetings for No Lore",
+    "extract_to": "GreetingsforNoLore",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Djangos Dialogue 1.4",
+    "name": "Djangos Dialogue",
+    "extract_to": "DjangosDialogue14",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Djangos Dialogue - Tamriel Rebuilt patch",
+    "name": "Djangos Dialogue - Tamriel Rebuilt",
+    "extract_to": "DjangosDialogueTamrielRebuiltpatch",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Legion Uniform Apathy",
+    "name": "Legion Uniform Apathy",
+    "extract_to": "LegionUniformApathy",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "FMI - Hospitality Papers Expanded",
+    "name": "Hospitality Papers Expanded",
+    "extract_to": "FMIHospitalityPapersExpanded",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "FMI - Misc",
+    "name": "FMI - Misc",
+    "extract_to": "FMIMisc",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "FMI - Current Councilors",
+    "name": "FMI_Current_Councilors",
+    "extract_to": "FMICurrentCouncilors",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "FMI - Nice to Meet You",
+    "name": "FMI - Nice to Meet You",
+    "extract_to": "FMINicetoMeetYou",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "FMI - NotAllDunmer",
+    "name": "FMI - NotAllDunmer",
+    "extract_to": "FMINotAllDunmer",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "FMI - Service Refusal and Contraband",
+    "name": "FMI - Service Refusal and Contraband",
+    "extract_to": "FMIServiceRefusalandContraband",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "FMI - Legion Dialogue",
+    "name": "FMI - Legion Dialogue",
+    "extract_to": "FMILegionDialogue",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "FMI - Athyn and Shardie",
+    "name": "FMI - Athyn and Shardie",
+    "extract_to": "FMIAthynandShardie",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "FMBP - Michael Michael Michael",
+    "name": "FMBP - Michael Michael Michael",
+    "extract_to": "FMBPMichaelMichaelMichael",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Empty Threats Disabler",
+    "name": "Empty Threats Disabler v1.3",
+    "extract_to": "EmptyThreatsDisabler",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Tunnel Cough",
+    "name": "Tunnel_Cough",
+    "extract_to": "TunnelCough",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Idle Talk",
+    "name": "Idle Talk",
+    "extract_to": "IdleTalk",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Vanilla Voices Unlocked",
+    "name": "Vanilla Voices Unlocked",
+    "extract_to": "VanillaVoicesUnlocked",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Faction Voiced Greetings",
+    "name": "Faction Voiced Greetings",
+    "extract_to": "FactionVoicedGreetings",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Great Service",
+    "name": "Great Service",
+    "extract_to": "GreatService",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Silent Assassins",
+    "name": "Silent Assassins",
+    "extract_to": "SilentAssassins",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Same Low Price Fix",
+    "name": "Same Low Price Fix",
+    "extract_to": "SameLowPriceFix",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Sheep-no-More",
+    "name": "No More Sheep",
+    "extract_to": "SheepnoMore",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Outlander Yourself",
+    "name": "Outlander Yourself",
+    "extract_to": "OutlanderYourself",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "LDM - Balmora Rumour Fix",
+    "name": "Balmora Rumour Fix - little secret delay",
+    "extract_to": "LDMBalmoraRumourFix",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "LDM - Racist Service Refusal",
+    "name": "LDM - Racist Service Refusal",
+    "extract_to": "LDMRacistServiceRefusal",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "LDM - Context Matters",
+    "name": "LDM - Context Matters",
+    "extract_to": "LDMContextMatters",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Honorable Dagoth - Courtesy of the First Blow",
+    "name": "Honorable Dagoth",
+    "extract_to": "HonorableDagothCourtesyoftheFirstBlow",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Store Entrance Chimes",
+    "name": "Store Entrance Chimes - Alt Ver",
+    "extract_to": "StoreEntranceChimes",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Store Entrance Chimes for Cyrodiil and TR Mainland",
+    "name": "Store Entrance Chimes - TR Mainland",
+    "extract_to": "StoreEntranceChimesforCyrodiilandTRMainland",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Store Entrance Chimes for Cyrodiil and TR Mainland",
+    "name": "Store Entrance Chimes - Cyrodiil",
+    "extract_to": "StoreEntranceChimesforCyrodiilandTRMainland",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Silt Strider Animation Restored",
+    "name": "Silt Strider Animation Restored",
+    "extract_to": "SiltStriderAnimationRestored",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Canonical Gear (OpenMW)",
+    "name": "Canonical Gear",
+    "extract_to": "CanonicalGearOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Unique Uniques",
+    "name": "Unique Uniques",
+    "extract_to": "UniqueUniques",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Morrowind Anti-Cheese",
+    "name": "Morrowind Anti-Cheese",
+    "extract_to": "MorrowindAntiCheese",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Beware the Sixth House (Sixth House Overhaul)",
+    "name": "Beware the Sixth House",
+    "extract_to": "BewaretheSixthHouseSixthHouseOverhaul",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Tribunal Rebalance",
+    "name": "Tribunal Rebalance",
+    "extract_to": "TribunalRebalance",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Bloodmoon Rebalance",
+    "name": "Bloodmoon Rebalance",
+    "extract_to": "BloodmoonRebalance",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "MDMD - More Deadly Morrowind Denizens",
+    "name": "MDMD - More Deadly Morrowind Denizens",
+    "extract_to": "MDMDMoreDeadlyMorrowindDenizens",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Tamriel ReBalanced - Deadlier Denizens",
+    "name": "Tamriel ReBalanced - Deadlier Denizens",
+    "extract_to": "TamrielReBalancedDeadlierDenizens",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Morrowind Quests Redux",
+    "name": "Morrowind Quests Redux All-In-One",
+    "extract_to": "MorrowindQuestsRedux",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "The Missing Class - Mananaut",
+    "name": "Twilots Missing Class Mananaut",
+    "extract_to": "TheMissingClassMananaut",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Fairer Weapon and Magic Experience Gains for Sane People",
+    "name": "FairerWeaponAndMagicXP",
+    "extract_to": "FairerWeaponandMagicExperienceGainsforSanePeople",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Slower Leveling Speed (an ideal Tamriel Rebuilt add-on)",
+    "name": "Slower Level Up and Increased Skill Training Costs",
+    "extract_to": "SlowerLevelingSpeedanidealTamrielRebuiltaddon",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "State-Based HP - Lua",
+    "name": "State Based HP - Lua",
+    "extract_to": "StateBasedHPLua",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "State-Based Magicka Regen (SBMR)",
+    "name": "State-Based Magicka Regen",
+    "extract_to": "StateBasedMagickaRegenSBMR",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Movement Fatigue Halved",
+    "name": "Movement Fatigue Halved 3",
+    "extract_to": "MovementFatigueHalved",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Rest and Sleep Recovery Options (OpenMW)",
+    "name": "Rest and Sleep Recovery Options (OpenMW)",
+    "extract_to": "RestandSleepRecoveryOptionsOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Less Spammable Persuasion",
+    "name": "Less Spammable Persuasion",
+    "extract_to": "LessSpammablePersuasion",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Speechcraft Rebalance (OpenMW)",
+    "name": "Speechcraft Rebalance (OpenMW) 1.0",
+    "extract_to": "SpeechcraftRebalanceOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Better Balanced Booze",
+    "name": "Better Balanced Booze",
+    "extract_to": "BetterBalancedBooze",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Adamantium Weapon Adjustments",
+    "name": "Adamantium Weapon Adjustments",
+    "extract_to": "AdamantiumWeaponAdjustments",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Rafael's Shader Pack",
+    "name": "Rafael's Shader Pack 2.0c",
+    "extract_to": "RafaelsShaderPack",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Devilish Snow (OpenMW)",
+    "name": "Devilish Snow",
+    "extract_to": "DevilishSnowOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Devilish Ash (OpenMW)",
+    "name": "Devilish Ash",
+    "extract_to": "DevilishAshOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "OpenMW Dynamic Ambient Visual Effects",
+    "name": "OpenMW Dynamic Ambient Visual Effects",
+    "extract_to": "OpenMWDynamicAmbientVisualEffects",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "OpenMW Distortion Effects",
+    "name": "OpenMW Distortion Effects",
+    "extract_to": "OpenMWDistortionEffects",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "OpenMW Distortion Effects",
+    "name": "OpenMW Distortion Patch - Creature VFX Restoration",
+    "extract_to": "OpenMWDistortionEffects",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "(OpenMW) Raindrops On Screen",
+    "name": "Raindrops On Screen",
+    "extract_to": "OpenMWRaindropsOnScreen",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "OpenMW Immersive Eyes-Body Reactions",
+    "name": "OpenmwImmersiveBlink",
+    "extract_to": "OpenMWImmersiveEyesBodyReactions",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "(OpenMW) Blood On Screen",
+    "name": "Blood On Screen",
+    "extract_to": "OpenMWBloodOnScreen",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Simple Distant Blur Shader for OpenMW",
+    "name": "Simple Distant Blur",
+    "extract_to": "SimpleDistantBlurShaderforOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Rock The Boat - Dynamic Camera Rocking for OpenMW",
+    "name": "Rock The Boat",
+    "extract_to": "RockTheBoatDynamicCameraRockingforOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "(OpenMW) Leave The Lights Off",
+    "name": "LeaveTheLightsOff",
+    "extract_to": "OpenMWLeaveTheLightsOff",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Animated Lanterns and Signs -- OpenMW",
+    "name": "AnimatedLanternsAndSigns",
+    "extract_to": "AnimatedLanternsandSignsOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Hit Reactions Animated -- OpenMW",
+    "name": "Hit Reactions Animated",
+    "extract_to": "HitReactionsAnimatedOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Can't Touch This - Combat Miss Feedback (OpenMW)",
+    "name": "CantTouchThis",
+    "extract_to": "CantTouchThisCombatMissFeedbackOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Pet the Scribs REVOLUTION - OpenMW",
+    "name": "Pet The Scribs REVOLUTION",
+    "extract_to": "PettheScribsREVOLUTIONOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Repopulated Creatures",
+    "name": "Repopulated Creatures",
+    "extract_to": "RepopulatedCreatures",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Over-the-Shoulder Combat Stance (OpenMW Camera script edit)",
+    "name": "Over The Shoulder Combat Stance (OMW Script)",
+    "extract_to": "OvertheShoulderCombatStanceOpenMWCamerascriptedit",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "TimeHUD - A Clock UI widget",
+    "name": "TimeHUD - a clock UI",
+    "extract_to": "TimeHUDAClockUIwidget",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Friendlier Fire (OpenMW)",
+    "name": "Friendlier Fire",
+    "extract_to": "FriendlierFireOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Best Friends Forever (OpenMW)",
+    "name": "BestFriendsForever",
+    "extract_to": "BestFriendsForeverOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Dynamic Reticle - Enemy HP bar. Hitmarkers. HUD effects. Sound effects. Slow-mo. -- OpenMW",
+    "name": "Dynamic Reticle",
+    "extract_to": "DynamicReticleEnemyHPbarHitmarkersHUDeffectsSoundeffectsSlowmoOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "The Combat Juice",
+    "name": "The Combat Juice",
+    "extract_to": "TheCombatJuice",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "They Bleed -- immersive blood effects -- OpenMW",
+    "name": "TheyBleed",
+    "extract_to": "TheyBleedimmersivebloodeffectsOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "(OpenMW 0.49) Floating Healthbars",
+    "name": "Floating Healthbars",
+    "extract_to": "OpenMW049FloatingHealthbars",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Dynamic camera - Immersive 1st and 3rd person camera effects and target lock -- OpenMW",
+    "name": "Dynamic Camera",
+    "extract_to": "DynamiccameraImmersive1stand3rdpersoncameraeffectsandtargetlockOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Sneak is Good Now. -- OpenMW",
+    "name": "SneakIsGoodNow",
+    "extract_to": "SneakisGoodNowOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Larger Minimap OpenMW",
+    "name": "Larger Minimap OpenMW",
+    "extract_to": "LargerMinimapOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "(OpenMW 0.49) Better Bars",
+    "name": "BetterBars",
+    "extract_to": "OpenMW049BetterBars",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "HUD Weapon Charge (For OpenMW)",
+    "name": "HUD weapon charge (For OpenMW)",
+    "extract_to": "HUDWeaponChargeForOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Ammo Count HUD (OpenMW)",
+    "name": "Ammo Count HUD",
+    "extract_to": "AmmoCountHUDOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "(OpenMW 0.49) HUDMarkers",
+    "name": "HUDMarkers",
+    "extract_to": "OpenMW049HUDMarkers",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Critical Health Vignette (OpenMW)",
+    "name": "Critical Health Vignette",
+    "extract_to": "CriticalHealthVignetteOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Completionist - A Morrowind Quest Tracker",
+    "name": "Completionist - All In One",
+    "extract_to": "CompletionistAMorrowindQuestTracker",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "OpenMW Skyrim Style Quest Notifications",
+    "name": "OpenMW Skyrim Style Quest Notifications",
+    "extract_to": "OpenMWSkyrimStyleQuestNotifications",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "QuickSelect Ultimate",
+    "name": "QuickSelect Ultimate - OpenMW",
+    "extract_to": "QuickSelectUltimate",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Nine-holes",
+    "name": "Nine-holes",
+    "extract_to": "Nineholes",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "TR Newspapers on Vvardenfell",
+    "name": "TR Newspaper Spawns on Vvardenfell",
+    "extract_to": "TRNewspapersonVvardenfell",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "PTR Tapestries and EEC assets on Vvardenfell",
+    "name": "PTR Tapestries and EEC assets on Vvardenfell",
+    "extract_to": "PTRTapestriesandEECassetsonVvardenfell",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Signs for the Signless",
+    "name": "Signs For The Signless",
+    "extract_to": "SignsfortheSignless",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Less Awful Pauldrons",
+    "name": "Less Awful Pauldrons",
+    "extract_to": "LessAwfulPauldrons",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "No More Dwemer Bee-bottom",
+    "name": "No More Dwemer Bee Bottom",
+    "extract_to": "NoMoreDwemerBeebottom",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Less Awful Boots",
+    "name": "Less Awful Boots",
+    "extract_to": "LessAwfulBoots",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "( Aaron's Ambient Rain Replacer for Morrowind",
+    "name": "Aaron's Ambient Rain Replacer for Morrowind",
+    "extract_to": "AaronsAmbientRainReplacerforMorrowind",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Aaron's Ambient Thunder Replacer for Morrowind",
+    "name": "Aaron's Ambient Thunder Replacer Mod for Morrowind",
+    "extract_to": "AaronsAmbientThunderReplacerforMorrowind",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Behaviour Tree Lua 2nd Edition",
+    "name": "Behaviour Tree Lua 2nd Edition",
+    "extract_to": "BehaviourTreeLua2ndEdition",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "(OpenMW) Hit and Miss Percentage Indicators for Melee Combat",
+    "name": "HitAndMissIndicators",
+    "extract_to": "OpenMWHitandMissPercentageIndicatorsforMeleeCombat",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Mercy - Combat AI Overhaul",
+    "name": "MercyCAO",
+    "extract_to": "MercyCombatAIOverhaul",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Take Cover (OpenMW)",
+    "name": "TakeCover",
+    "extract_to": "TakeCoverOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Devilish Eyes On You (OpenMW)",
+    "name": "Devilish Eyes On You",
+    "extract_to": "DevilishEyesOnYouOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Protective Guards (OpenMW)",
+    "name": "Protective Guards - OpenMW",
+    "extract_to": "ProtectiveGuardsOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "(OpenMW) Protective Guards - Factions Addon",
+    "name": "Protective Guards Factions Addon",
+    "extract_to": "OpenMWProtectiveGuardsFactionsAddon",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Npcs and Creatures Rest (OpenMW)",
+    "name": "NPCs and Creatures Rest",
+    "extract_to": "NpcsandCreaturesRestOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Ghostfence Zone - Levitation Restriction (OpenMW)",
+    "name": "Ghostfence Zone",
+    "extract_to": "GhostfenceZoneLevitationRestrictionOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "We Don't Go To Red Mountain - Ghostgate Locked",
+    "name": "We Don't Go To Red Mountain - Ghostgate Locked",
+    "extract_to": "WeDontGoToRedMountainGhostgateLocked",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "SnowySheogorad",
+    "name": "SnowySheogorad",
+    "extract_to": "SnowySheogorad",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Expanding Blight (OpenMW)",
+    "name": "Expanding Blight",
+    "extract_to": "ExpandingBlightOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Expanding Blight (OpenMW)",
+    "name": "Deadly Blight Lua Edition",
+    "extract_to": "ExpandingBlightOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "No Fires in Bad Weather - OpenMW",
+    "name": "No Fires in Bad Weather - OpenMW",
+    "extract_to": "NoFiresinBadWeatherOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Red Mountain Tremors 2.0 - OpenMW",
+    "name": "Red Mountain Tremors OpenMW - Limited",
+    "extract_to": "RedMountainTremors20OpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "It Beats (OpenMW)",
+    "name": "It Beats",
+    "extract_to": "ItBeatsOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Devilish Birds (OpenMW)",
+    "name": "Devilish Birds Lua",
+    "extract_to": "DevilishBirdsOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Maxar's Dynamic Footsteps Sounds (OpenMw 0.49)",
+    "name": "Maxar's Dynamic Footsteps",
+    "extract_to": "MaxarsDynamicFootstepsSoundsOpenMw049",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Dynamic Sounds Phoenix",
+    "name": "Dynamic Sounds Phoenix",
+    "extract_to": "DynamicSoundsPhoenix",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "OpenMW Dynamic Animations",
+    "name": "OpenMW Dynamic Animations",
+    "extract_to": "OpenMWDynamicAnimations",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Magic Hands (idle spell effects)",
+    "name": "Magic Hands",
+    "extract_to": "MagicHandsidlespelleffects",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Sorry We're Closed - Nighttime Service Refusal",
+    "name": "Sorry We're Closed - Night Travel Mode",
+    "extract_to": "SorryWereClosedNighttimeServiceRefusal",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Sorry We're Closed - Nighttime Service Refusal",
+    "name": "Sorry We're Closed - Night Travel - Tamriel_Data",
+    "extract_to": "SorryWereClosedNighttimeServiceRefusal",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Sorry Too Stormy - Blight Only",
+    "name": "Sorry Too Stormy - Blight Only",
+    "extract_to": "SorryTooStormyBlightOnly",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Arrow Stick (OpenMW)",
+    "name": "Arrow Stick",
+    "extract_to": "ArrowStickOpenMW",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Under Construction",
+    "name": "Under Construction",
+    "extract_to": "UnderConstruction",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Slightly Higher Baar Dau",
+    "name": "Slightly Higher Baar Dau",
+    "extract_to": "SlightlyHigherBaarDau",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Prerelease Prisonmoon",
+    "name": "Prerelease Prisonmoon",
+    "extract_to": "PrereleasePrisonmoon",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Furled Sails for Ships",
+    "name": "Furled Sails for Ships",
+    "extract_to": "FurledSailsforShips",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Dubdilla Location Fix",
+    "name": "Dubdilla Location Fix",
+    "extract_to": "DubdillaLocationFix",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Minor Corprusarium Refit",
+    "name": "Minor Corprusarium Refit",
+    "extract_to": "MinorCorprusariumRefit",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Divayth Fyr Puzzle Fixed",
+    "name": "Divayth Fyr Puzzle Fixed",
+    "extract_to": "DivaythFyrPuzzleFixed",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Cavern Refit",
+    "name": "Cavern Refit",
+    "extract_to": "CavernRefit",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Cavern Refit",
+    "name": "Cavern Refit - PfP Patch",
+    "extract_to": "CavernRefit",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Minor Tukushapal Refit",
+    "name": "Minor Tukushapal Refit",
+    "extract_to": "MinorTukushapalRefit",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Mine Refit",
+    "name": "Mine Refit",
+    "extract_to": "MineRefit",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Sixth House Minor Bases Refit",
+    "name": "Sixth House Minor Bases Refit - No OAAB",
+    "extract_to": "SixthHouseMinorBasesRefit",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Urshilaku Burials Refit",
+    "name": "Urshilaku Burial Refit",
+    "extract_to": "UrshilakuBurialsRefit",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Velothi Tower Refit",
+    "name": "Velothi Tower Refit",
+    "extract_to": "VelothiTowerRefit",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Verdant Bitter Coast - Fern Trees",
+    "name": "Verdant Bitter Coast Fern Trees",
+    "extract_to": "VerdantBitterCoastFernTrees",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Verdant Bitter Coast - Fern Trees",
+    "name": "Verdant Bitter Coast Fern Trees - Animated",
+    "extract_to": "VerdantBitterCoastFernTrees",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Vanilla Morrowind Trees - Animated",
+    "name": "Vanilla Trees Animated",
+    "extract_to": "VanillaMorrowindTreesAnimated",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Tamriel Data Trees - Animated",
+    "name": "Tamriel Data Trees Animated",
+    "extract_to": "TamrielDataTreesAnimated",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Azura CC",
+    "name": "MOAzuraCC3",
+    "extract_to": "AzuraCC",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Sadrith Mora to Tel Aruhn Boat Travel",
+    "name": "Sadrith Mora to Tel Aruhn Boat Travel",
+    "extract_to": "SadrithMoratoTelAruhnBoatTravel",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Guar stables of Balmora",
+    "name": "Guar stables of Balmora",
+    "extract_to": "GuarstablesofBalmora",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Guar Stables of Vivec",
+    "name": "Guar stables of Vivec",
+    "extract_to": "GuarStablesofVivec",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Arano Plantation Windmill",
+    "name": "RP_Arano_Windmill",
+    "extract_to": "AranoPlantationWindmill",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Redoran ruins in Suran - minor cosmetic details",
+    "name": "SuranRedoranSkriak1",
+    "extract_to": "RedoranruinsinSuranminorcosmeticdetails",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Suran Bridge",
+    "name": "Suran Bridge",
+    "extract_to": "SuranBridge",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "No-Frills Closed Molag Mar",
+    "name": "No-Frills Closed Molag Mar",
+    "extract_to": "NoFrillsClosedMolagMar",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Caldera Palisade",
+    "name": "CalderaPalisade",
+    "extract_to": "CalderaPalisade",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "More Indoril Indoril Settlements",
+    "name": "AkaMoreIndoril",
+    "extract_to": "MoreIndorilIndorilSettlements",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "More Indoril Indoril Settlements",
+    "name": "EnaMoreIndoril",
+    "extract_to": "MoreIndorilIndorilSettlements",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "More Indoril Indoril Settlements",
+    "name": "NanIbanMoreIndoril",
+    "extract_to": "MoreIndorilIndorilSettlements",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "More Indoril Indoril Settlements",
+    "name": "AmmarMoreIndoril",
+    "extract_to": "MoreIndorilIndorilSettlements",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Shabby Seyda Neen",
+    "name": "Shabby Seyda Neen",
+    "extract_to": "ShabbySeydaNeen",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Seyda Neen Census and Excise Office Window Fix",
+    "name": "Seyda Neen Census And Excise Window Fix",
+    "extract_to": "SeydaNeenCensusandExciseOfficeWindowFix",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Concept Art Palace (Vivec City)",
+    "name": "Concept Art Palace",
+    "extract_to": "ConceptArtPalaceVivecCity",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Concept Art Palace (Vivec City)",
+    "name": "OpenMW distant flames",
+    "extract_to": "ConceptArtPalaceVivecCity",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Better Flames for Concept Art Palace (Vivec City) - OpenMW Version",
+    "name": "Better Flames for Concept Art Palace",
+    "extract_to": "BetterFlamesforConceptArtPalaceVivecCityOpenMWVersion",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Distant Mournhold",
+    "name": "Mournhold LOD V1.0",
+    "extract_to": "DistantMournhold",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Silent Mournhold",
+    "name": "Silent Mournhold",
+    "extract_to": "SilentMournhold",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Concept art Hlaalu Balconies",
+    "name": "Concept art Hlaalu Balconies",
+    "extract_to": "ConceptartHlaaluBalconies",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Balmora Morag Tong Guildhall Redone",
+    "name": "Balmora Morag Tong",
+    "extract_to": "BalmoraMoragTongGuildhallRedone",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Minor Balmora Fixes",
+    "name": "Minor Balmora Fixes - Manor District Fog",
+    "extract_to": "MinorBalmoraFixes",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Minor Balmora Fixes",
+    "name": "Minor Balmora Fixes - Dulnea Ralaal Wander Fix",
+    "extract_to": "MinorBalmoraFixes",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Fyr's Daughters Redone",
+    "name": "Fyr'S Daughters Redone",
+    "extract_to": "FyrsDaughtersRedone",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Nordic Dagon Fel NPCs",
+    "name": "Nordic Dagon Fel NPCs",
+    "extract_to": "NordicDagonFelNPCs",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "NPC Overhaul - Balmora",
+    "name": "NPC Overhaul-Balmora",
+    "extract_to": "NPCOverhaulBalmora",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "NPC Overhaul - Ald'ruhn",
+    "name": "NPC Overhaul - Ald-Ruhn",
+    "extract_to": "NPCOverhaulAldruhn",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "NPC Overhaul - Sadrith Mora",
+    "name": "NPC Overhaul - Sadrith Mora",
+    "extract_to": "NPCOverhaulSadrithMora",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "NPC Overhaul - Tribunal",
+    "name": "NPC Overhaul - Tribunal Rebalanced",
+    "extract_to": "NPCOverhaulTribunal",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Watchmen on Vvardenfell",
+    "name": "Watchmen on Vvardenfell",
+    "extract_to": "WatchmenonVvardenfell",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Diverse Khajiit",
+    "name": "Diverse Khajiit (v3.1)",
+    "extract_to": "DiverseKhajiit",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "OAAB Full Upscale",
+    "name": "OAAB Full Upscale - 2x Scale",
+    "extract_to": "OAABFullUpscale/main",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Tamriel Data Texture Upscale",
+    "name": "Tamriel Data (HD) v25.05 - 2x Upscale",
+    "extract_to": "TamrielDataTextureUpscale",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "How I Shot Web",
+    "name": "How I Shot Web",
+    "extract_to": "HowIShotWeb",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Sotha Sil is a Dunmer",
+    "name": "Sotha Sil is a Dunmer",
+    "extract_to": "SothaSilisaDunmer",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Unique faces for Tamriel Data",
+    "name": "UniqueFaces for TamrielData",
+    "extract_to": "UniquefacesforTamrielData",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Orange Narsis - Shipal-Shin wall retexture",
+    "name": "OrangeNarsis",
+    "extract_to": "OrangeNarsisShipalShinwallretexture",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Atlased Orange Narsis",
+    "name": "Orange Narsis ATLAS",
+    "extract_to": "AtlasedOrangeNarsis",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Atlased Orange Narsis",
+    "name": "Orange Narsis GITD",
+    "extract_to": "AtlasedOrangeNarsis",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "TR Data Painting Edits",
+    "name": "TR Data Painting Edits - Downscaled",
+    "extract_to": "TRDataPaintingEdits",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Tamriel Data Water Retextured",
+    "name": "Tamriel Data water retextured vanilla",
+    "extract_to": "TamrielDataWaterRetextured",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Tamriel Data Water Retextured",
+    "name": "OAAB water retextured vanilla",
+    "extract_to": "TamrielDataWaterRetextured",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "OpenMW More Dynamic Water Meshes",
+    "name": "OpenMW Dynamic Water Meshes",
+    "extract_to": "OpenMWMoreDynamicWaterMeshes",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "Dagoth Ur Blight Cloud Shader Compatibility",
+    "name": "Dagoth Ur Blight Cloud Shader Compatibility",
+    "extract_to": "DagothUrBlightCloudShaderCompatibility",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "OpenMW - Controller Interface Overhaul",
+    "name": "Controller Interface Overhaul",
+    "extract_to": "OpenMWControllerInterfaceOverhaul",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  },
+  {
+    "for_mod": "S3maphore - OpenMW Music Management from the Future",
+    "name": "S3maphore",
+    "extract_to": "S3maphoreOpenMWMusicManagementfromtheFuture",
+    "on_lists": [
+      "authentic-morrowind"
+    ]
+  }
+]

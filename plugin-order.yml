@@ -1,0 +1,832 @@
+- for_mod: Morrowind
+  file_name: Morrowind.esm
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind
+  file_name: Tribunal.esm
+  on_lists:
+  - authentic-morrowind
+- for_mod: Distant Seafloor for OpenMW
+  file_name: distant_seafloor_2.00.esm
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind
+  file_name: Bloodmoon.esm
+  on_lists:
+  - authentic-morrowind
+- for_mod: Patch for Purists
+  file_name: Patch for Purists.esm
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tamriel Data
+  file_name: Tamriel_Data.esm
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tamriel Rebuilt
+  file_name: TR_Mainland.esm
+  on_lists:
+  - authentic-morrowind
+- for_mod: Project Cyrodiil
+  file_name: Cyr_Main.ESM
+  on_lists:
+  - authentic-morrowind
+- for_mod: 'Skyrim: Home of the Nords'
+  file_name: Sky_Main.ESM
+  on_lists:
+  - authentic-morrowind
+- for_mod: Distant Ebon Tower for OpenMW
+  file_name: DistantEbonTower.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Distant Seafloor for OpenMW
+  file_name: distant seafloor bloodmoon edges fix.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Unofficial Morrowind Official Plugins Patched
+  file_name: adamantiumarmor.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Unofficial Morrowind Official Plugins Patched
+  file_name: AreaEffectArrows.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Unofficial Morrowind Official Plugins Patched
+  file_name: entertainers.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Unofficial Morrowind Official Plugins Patched
+  file_name: EBQ_Artifact.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Unofficial Morrowind Official Plugins Patched
+  file_name: LeFemmArmor.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Master Index Reloaded
+  file_name: master_index_reloaded.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Graphic Herbalism - MWSE and OpenMW Edition
+  file_name: correctUV Ore Replacer_fixed.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW Containers Animated
+  file_name: Containers Animated.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind Optimization Patch
+  file_name: Lake Fjalding Anti-Suck.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Glow in the Dahrk
+  file_name: GITD_Telvanni_Dormers.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: 'Distant Fixes: Lua Edition'
+  file_name: distant-fixes-lua-edition.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tamriel Rebuilt
+  file_name: tamrielrebuilt.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tamriel Data
+  file_name: Tamriel_Data.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Max Yari's Script Services
+  file_name: MaxYariScriptServices.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Zerkish ModUtils (OpenMW)
+  file_name: ZModUtils.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Follower Detection Util (OpenMW)
+  file_name: FollowerDetectionUtil.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Zerkish AutoSave (For OpenMW)
+  file_name: ZerkishAutoSave.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: OAAB_Data
+  file_name: OAAB_Data.esm
+  on_lists:
+  - authentic-morrowind
+- for_mod: No-Frills Open Vivec
+  file_name: No-Frills Open Vivec.esm
+  on_lists:
+  - authentic-morrowind
+- for_mod: Ownership Overhaul
+  file_name: Ownership Overhaul.esm
+  on_lists:
+  - authentic-morrowind
+- for_mod: Quick Char Polished
+  file_name: ss_quick_char_polished.omwaddon
+  on_lists:
+  - authentic-morrowind
+- for_mod: Arrive Whenever - Start Time and Timescale for OpenMW
+  file_name: ArriveWhenever.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Expansion Delay
+  file_name: Expansion Delay.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Solstheim Rumor Fix - Fixed - Fixed
+  file_name: Solstheim Rumor Fix - Fixed - Fixed.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morag Tong Attacks
+  file_name: MoragTongAttacks.esm
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morag Tong Attacks
+  file_name: MoragTongAttacks_GreatHouseMembershipRequired.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morag Tong Attacks
+  file_name: MoragTongAttacks_TR.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morag Tong Attacks
+  file_name: MoragTongAttacks_MoragTongEquipmentDiversity.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: The Publicans
+  file_name: The Publicans.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Greetings for No Lore
+  file_name: Greetings for No Lore.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Djangos Dialogue 1.4
+  file_name: Djangos Dialogue.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Djangos Dialogue - Tamriel Rebuilt patch
+  file_name: Djangos Dialogue - Tamriel Rebuilt.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Legion Uniform Apathy
+  file_name: Legion Uniform Apathy.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Hospitality Papers Expanded
+  file_name: Hospitality_Papers_Expanded_v2.7.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Misc
+  file_name: FMI_Misc.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Current Councilors
+  file_name: FMI_Current_Councilors.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Nice to Meet You
+  file_name: FMI_Nice_to_Meet_You.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - NotAllDunmer
+  file_name: FMI_#NotAllDunmer.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Service Refusal and Contraband
+  file_name: FMI_ServiceRefusal_Contraband.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Legion Dialogue
+  file_name: FMI_Legion_Dialogue.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMI - Athyn and Shardie
+  file_name: FMI_Athyn_And_Shardie.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: FMBP - Michael Michael Michael
+  file_name: ETD_v1.3.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tunnel Cough
+  file_name: Tunnel Cough.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Idle Talk
+  file_name: Idle Talk.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Vanilla Voices Unlocked
+  file_name: Vanilla Voices Unlocked.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Faction Voiced Greetings
+  file_name: FactionGreetings.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Great Service
+  file_name: Great Service.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Silent Assassins
+  file_name: Silent Assassins.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Outlander Yourself
+  file_name: OutlanderVoiceFix.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: LDM - Balmora Rumour Fix
+  file_name: Balmora Rumours Fix - little secrets delay.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: LDM - Racist Service Refusal
+  file_name: LDM - Racist Service Refusal.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: LDM - Context Matters
+  file_name: LDM - Context Matters 1.7.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Honorable Dagoth - Courtesy of the First Blow
+  file_name: Honorable Dagoth.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Store Entrance Chimes
+  file_name: Store Entrance Chimes - Alt Ver.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Store Entrance Chimes for Cyrodiil and TR Mainland
+  file_name: Store Entrance Chimes - TR Mainland.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Store Entrance Chimes for Cyrodiil and TR Mainland
+  file_name: Store Entrance Chimes - Cyrodiil.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Silt Strider Animation Restored
+  file_name: Silt Strider Animation Restored.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Canonical Gear (OpenMW)
+  file_name: CanonicalGear.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Unique Uniques
+  file_name: Unique Uniques.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind Anti-Cheese
+  file_name: Morrowind Anti-Cheese.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Beware the Sixth House (Sixth House Overhaul)
+  file_name: Beware the Sixth House.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tribunal Rebalance
+  file_name: Tribunal Rebalance.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Bloodmoon Rebalance
+  file_name: Bloodmoon Rebalance.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: MDMD - More Deadly Morrowind Denizens
+  file_name: MDMD - More Deadly Morrowind Denizens.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: MDMD - More Deadly Morrowind Denizens
+  file_name: MDMD - Creatures Add-On.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Tamriel ReBalanced - Deadlier Denizens
+  file_name: Rekindled_TR_Rebalance.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Morrowind Quests Redux
+  file_name: Morrowind Quests Redux All-In-One.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: The Missing Class - Mananaut
+  file_name: Twilots Missing Class - Mananaut.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Fairer Weapon and Magic Experience Gains for Sane People
+  file_name: FairerMagicAndWeaponXP.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Slower Leveling Speed (an ideal Tamriel Rebuilt add-on)
+  file_name: Varil_Slower Skill Gain and DoubleTraining Costs x2.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: State-Based HP - Lua
+  file_name: StateBasedHP.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: State-Based Magicka Regen (SBMR)
+  file_name: state-based-magicka-regen.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Movement Fatigue Halved
+  file_name: MovementFatigueHalved.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Rest and Sleep Recovery Options (OpenMW)
+  file_name: rest_and_sleep_recovery_options.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Less Spammable Persuasion
+  file_name: Less Spammable Persuasion.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Speechcraft Rebalance (OpenMW)
+  file_name: Speechcraft Rebalance.omwaddon
+  on_lists:
+  - authentic-morrowind
+- for_mod: Better Balanced Booze
+  file_name: better balanced booze.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Adamantium Weapon Adjustments
+  file_name: Adamantium Weapon Adjustments.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Devilish Snow (OpenMW)
+  file_name: Devilish Snow.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Devilish Ash (OpenMW)
+  file_name: Devilish Ash.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW Dynamic Ambient Visual Effects
+  file_name: Dynamic Ambient Visual Effects.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW) Raindrops On Screen
+  file_name: Raindrops On Screen.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW Immersive Eyes-Body Reactions
+  file_name: openmwimmersiveblink.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW) Blood On Screen
+  file_name: Blood On Screen.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Rock The Boat - Dynamic Camera Rocking for OpenMW
+  file_name: RockTheBoat.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW) Leave The Lights Off
+  file_name: LeaveTheLightsOff.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Animated Lanterns and Signs -- OpenMW
+  file_name: AnimatedLanterns.omwaddon
+  on_lists:
+  - authentic-morrowind
+- for_mod: Animated Lanterns and Signs -- OpenMW
+  file_name: AnimatedLanterns.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Hit Reactions Animated -- OpenMW
+  file_name: HitReactionsAnimated.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Can't Touch This - Combat Miss Feedback (OpenMW)
+  file_name: cantouchthis.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Pet the Scribs REVOLUTION - OpenMW
+  file_name: PetTheScribs.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Repopulated Creatures
+  file_name: RepopulatedCreatures.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: TimeHUD - A Clock UI widget
+  file_name: timehud.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Friendlier Fire (OpenMW)
+  file_name: FriendlierFire.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Best Friends Forever (OpenMW)
+  file_name: BestFriendsForever.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Dynamic Reticle - Enemy HP bar. Hitmarkers. HUD effects. Sound effects. Slow-mo. -- OpenMW
+  file_name: DynamicReticle.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: The Combat Juice
+  file_name: CombatJuice.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: They Bleed -- immersive blood effects -- OpenMW
+  file_name: TheyBleed.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW 0.49) Floating Healthbars
+  file_name: FloatingHealthbars.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Dynamic camera - Immersive 1st and 3rd person camera effects and target lock -- OpenMW
+  file_name: DynamicCamera.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sneak is Good Now. -- OpenMW
+  file_name: SneakIsGoodNow.omwaddon
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sneak is Good Now. -- OpenMW
+  file_name: SneakIsGoodNow.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW 0.49) Better Bars
+  file_name: BetterBars.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: HUD Weapon Charge (For OpenMW)
+  file_name: HUDweaponCharge.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Ammo Count HUD (OpenMW)
+  file_name: AmmoCountHUD.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW 0.49) HUDMarkers
+  file_name: HUDMarkers.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Critical Health Vignette (OpenMW)
+  file_name: Critical Vignette.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Completionist - A Morrowind Quest Tracker
+  file_name: Completionist.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Completionist - A Morrowind Quest Tracker
+  file_name: Completionist - TR Patch.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Completionist - A Morrowind Quest Tracker
+  file_name: Completionist - PC Patch.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Completionist - A Morrowind Quest Tracker
+  file_name: Completionist - SHOTN Patch.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW Skyrim Style Quest Notifications
+  file_name: SSQN.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: QuickSelect Ultimate
+  file_name: QuickSelectUltimate.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Nine-holes
+  file_name: Nine-holes.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: TR Newspapers on Vvardenfell
+  file_name: TR Newspaper Spawns on Vvardenfell.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: PTR Tapestries and EEC assets on Vvardenfell
+  file_name: PTR Tapestries & EEC on VV.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Signs for the Signless
+  file_name: signs4signless.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Less Awful Boots
+  file_name: less-awful-boots.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: (OpenMW) Hit and Miss Percentage Indicators for Melee Combat
+  file_name: HitAndMissIndicators.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Mercy - Combat AI Overhaul
+  file_name: MercyCAO.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Take Cover (OpenMW)
+  file_name: TakeCover.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Devilish Eyes On You (OpenMW)
+  file_name: Devilish Eyes On You.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Protective Guards (OpenMW)
+  file_name: protective_guards.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Npcs and Creatures Rest (OpenMW)
+  file_name: npcs_crea_rest.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Ghostfence Zone - Levitation Restriction (OpenMW)
+  file_name: cybGhostfenceZone.omwaddon
+  on_lists:
+  - authentic-morrowind
+- for_mod: We Don't Go To Red Mountain - Ghostgate Locked
+  file_name: We Don't Go To Red Mountain - Ghostgate Locked.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: SnowySheogorad
+  file_name: SnowySheogorad.omwaddon
+  on_lists:
+  - authentic-morrowind
+- for_mod: Expanding Blight (OpenMW)
+  file_name: deadly-blight-openmw-lua.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: No Fires in Bad Weather - OpenMW
+  file_name: No Fires in Bad Weather.omwaddon
+  on_lists:
+  - authentic-morrowind
+- for_mod: No Fires in Bad Weather - OpenMW
+  file_name: No Fires in Bad Weather.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Red Mountain Tremors 2.0 - OpenMW
+  file_name: Red Mountain Tremors OpenMW.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Red Mountain Tremors 2.0 - OpenMW
+  file_name: Red Mountain Tremors OpenMW.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: It Beats (OpenMW)
+  file_name: ItBeats.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Expanding Blight (OpenMW)
+  file_name: ExpandingBlight.omwaddon
+  on_lists:
+  - authentic-morrowind
+- for_mod: Devilish Birds (OpenMW)
+  file_name: Devilish Birds.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Devilish Birds (OpenMW)
+  file_name: Devilish Birds.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Maxar's Dynamic Footsteps Sounds (OpenMw 0.49)
+  file_name: MaxarFootsteps.omwaddon
+  on_lists:
+  - authentic-morrowind
+- for_mod: Maxar's Dynamic Footsteps Sounds (OpenMw 0.49)
+  file_name: MaxarFootsteps.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Dynamic Sounds Phoenix
+  file_name: DynamicSounds.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: OpenMW Dynamic Animations
+  file_name: Dynamic Animations.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Magic Hands (idle spell effects)
+  file_name: magic-hands.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sorry We're Closed - Nighttime Service Refusal
+  file_name: Sorry We're Closed - Night Travel Mode.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sorry We're Closed - Nighttime Service Refusal
+  file_name: Sorry We're Closed - Night Travel Mode - Tamriel_Data add-on.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sorry Too Stormy - Blight Only
+  file_name: Sorry Too Stormy - Blight Only.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Arrow Stick (OpenMW)
+  file_name: ArrowStick.omwscripts
+  on_lists:
+  - authentic-morrowind
+- for_mod: Under Construction
+  file_name: Under Construction.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Slightly Higher Baar Dau
+  file_name: Slightly Higher Baar Dau.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Furled Sails for Ships
+  file_name: Furled Sails for Ships.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Dubdilla Location Fix
+  file_name: Dubdilla Location Fix.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Minor Corprusarium Refit
+  file_name: MinorCorprusariumRefit.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Divayth Fyr Puzzle Fixed
+  file_name: Divayth Fyr Puzzle Fixed.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Divayth Fyr Puzzle Fixed
+  file_name: Divayth Fyr Puzzle Fixed Ownership Overhaul Patch.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Cavern Refit
+  file_name: CavernRefit.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Cavern Refit
+  file_name: Cavern Refit - PfP Patch.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Minor Tukushapal Refit
+  file_name: MinorTukushapalRefit.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Mine Refit
+  file_name: MineRefit.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sixth House Minor Bases Refit
+  file_name: SixthHouseMinorBasesRefit.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Urshilaku Burials Refit
+  file_name: UrshilakuBurialRefit.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Velothi Tower Refit
+  file_name: VelothiTowerRefit.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Verdant Bitter Coast - Fern Trees
+  file_name: Verdant Bitter Coast - Fern Trees.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Azura CC
+  file_name: MO_AzuraCC.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Sadrith Mora to Tel Aruhn Boat Travel
+  file_name: Sadrith Mora to Tel Aruhn Boat Travel.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Guar stables of Balmora
+  file_name: RP_Balmora_Guar_Stables.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Guar Stables of Vivec
+  file_name: Guar stables of Vivec.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Arano Plantation Windmill
+  file_name: RP_Arano_Plantation_Windmill.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Redoran ruins in Suran - minor cosmetic details
+  file_name: SuranRedoranSkriak1.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Suran Bridge
+  file_name: Suran Bridge.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: No-Frills Closed Molag Mar
+  file_name: No-Frills Closed Molag Mar.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Caldera Palisade
+  file_name: DM_CalderaWallPalisade.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: More Indoril Indoril Settlements
+  file_name: DM_TR_AkaMoreIndoril.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: More Indoril Indoril Settlements
+  file_name: DM_TR_EnaMoreIndoril.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: More Indoril Indoril Settlements
+  file_name: DM_TR_NanIbanMoreIndoril.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: More Indoril Indoril Settlements
+  file_name: DM_TR_AmmarMoreIndoril.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Shabby Seyda Neen
+  file_name: Shabby Seyda Neen.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Seyda Neen Census and Excise Office Window Fix
+  file_name: Seyda Neen Census and Excise Window Fix.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Concept Art Palace (Vivec City)
+  file_name: CAP_Flame.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Concept Art Palace (Vivec City)
+  file_name: CAP_Illuminated Staircase.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Concept Art Palace (Vivec City)
+  file_name: CAP_Flame patch.omwaddon
+  on_lists:
+  - authentic-morrowind
+- for_mod: Distant Mournhold
+  file_name: Mournhold LOD.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Concept art Hlaalu Balconies
+  file_name: Concept Art Hlaalu Balconies - Balmora.esp
+  on_lists:
+  - authentic-morrowind
+- for_mod: Concept art Hlaalu Balconies
+  file_name: Concept Art Hlaalu Balconies - Suran.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Balmora Morag Tong Guildhall Redone
+  file_name: DM_BalmoraMoragTong.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Minor Balmora Fixes
+  file_name: TBMM - Manor District Fog.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Minor Balmora Fixes
+  file_name: TBMM - Dulnea Ralaal Wander Fix.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Fyr's Daughters Redone
+  file_name: Fyr's Daughters Redone.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Nordic Dagon Fel NPCs
+  file_name: Nordic Dagon Fel NPCs.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: NPC Overhaul - Balmora
+  file_name: NPC Overhaul - Balmora.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: NPC Overhaul - Ald'ruhn
+  file_name: NPC Overhaul - Ald-ruhn.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: NPC Overhaul - Ald'ruhn
+  file_name: NPC Overhaul - Redoran Guards.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: NPC Overhaul - Sadrith Mora
+  file_name: NPC Overhaul - Sadrith Mora.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: NPC Overhaul - Sadrith Mora
+  file_name: NPC Overhaul - Telvanni Guards.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: NPC Overhaul - Tribunal
+  file_name: NPC Overhaul -Tribunal Rebalanced.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Watchmen on Vvardenfell
+  file_name: Watchmen on Vvardenfell.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Diverse Khajiit
+  file_name: Diverse Khajiit.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Orange Narsis - Shipal-Shin wall retexture
+  file_name: OrangeNarsis.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: Dagoth Ur Blight Cloud Shader Compatibility
+  file_name: Reduced Degoth Ur Blight Cloud.ESP
+  on_lists:
+  - authentic-morrowind
+- for_mod: S3maphore - OpenMW Music Management from the Future
+  file_name: S3maphore.esp
+  on_lists:
+  - authentic-morrowind
