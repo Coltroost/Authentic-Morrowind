@@ -6,7 +6,7 @@ Cities/towns and landmarks get light touch-ups rather than rebuilds. Concept Art
 
 The original HUD and UI style stays intact but improved. Controller Interface Overhaul, QuickSelect Ultimate, HUD Markers, Larger Minimap, and BetterBars improve functionality, especially with a controller and the narrower aspect ratio. Animation and combat get similar treatment with Dynamic Animations, Animated Lanterns and Signs, and Hit Reactions Animated. These mods add life to the game without replacing existing animations, while Dynamic Camera, Hit and Miss Indicators, Mercy AI, and Take Cover add responsiveness to combat.
 
-NPCs and dialogue are better realized with NPC Overhaul, Repopulated Creatures, Protective Guards, Faction Voiced Greetings, and the FMI/LDM dialogue fixes.
+NPCs, worldbuilding and dialogue are better realized with NPC Overhaul, Repopulated Creatures, Protective Guards, Faction Voiced Greetings, and the FMI/LDM dialogue fixes.
 
 Balance changes are light: State-Based HP and Magicka Regen, Rest and Sleep Recovery, Speechcraft Rebalance, Slower Level Up, and the Tribunal and Bloodmoon rebalances, plus Morrowind Anti-Cheese.
 
