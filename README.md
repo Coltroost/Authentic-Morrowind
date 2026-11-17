@@ -1,3 +1,5 @@
+AUTHENTIC MORROWIND
+
 This list imagines Morrowind as it might have looked and felt if its developers had had unlimited time and resources in 2002. It runs on OpenMW at a classic 4:3 aspect ratio and builds on the I Heart Vanilla: Director’s Cut foundation, keeping the original visual identity while adding modern shaders, clearer textures, and quality-of-life improvements. The aim is to realize Morrowind’s retro design more fully. The list favors consistency with the base game, following the design philosophy of projects like Tamriel Rebuilt. Smaller refits improve existing locations, and OAAB Data is used sparingly in favor of Tamriel Data.
 
 Mods like Morrowind Enhanced Textures, various upscales, Animated Trees, Rafael’s Shader Pack, and Devilish Snow/Ash enhance the world without changing its art direction.
