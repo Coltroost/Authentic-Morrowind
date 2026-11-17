@@ -4930,5 +4930,44 @@
     "nexus_game": "morrowind",
     "prepared": null,
     "conflicts": []
+  },
+  {
+    "name": "Alternative TrueType Fonts",
+    "author": "Isaskar and Georgd",
+    "description": "Fonts to replace the default fonts used by OpenMW: Pelagiad by Isak Larborn and Ayembedt by Georg Duffner.",
+    "url": "/files/AlternativeTrueTypeFonts.7z",
+    "category": "Fonts",
+    "dl_url": "/files/AlternativeTrueTypeFonts.7z",
+    "usage_notes": "",
+    "compat": 4,
+    "dir": "AlternativeTrueTypeFonts",
+    "slug": "alternative-truetype-fonts",
+    "tags": [
+      "high-res",
+      "tes3mp-graphics"
+    ],
+    "date_added": "2023-12-23T08:54:23Z",
+    "date_updated": null,
+    "download_info": [
+      {
+        "direct_download": "https://modding-openmw.com/files/AlternativeTrueTypeFonts.7z",
+        "file_name": "Alternative TrueType Fonts",
+        "extract_to": "AlternativeTrueTypeFonts",
+        "actions": [],
+        "nexus_file_id": null,
+        "pinned": false,
+        "content_link": null
+      }
+    ],
+    "on_lists": [],
+    "data_paths": [
+      "AlternativeTrueTypeFonts"
+    ],
+    "plugins": [],
+    "handler": "direct",
+    "nexus_id": null,
+    "nexus_game": "morrowind",
+    "prepared": null,
+    "conflicts": []
   }
 ]
