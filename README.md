@@ -14,19 +14,28 @@ Balance changes are light: State-Based HP and Magicka Regen, Rest and Sleep Reco
 
 Morrowind’s sound effects are central to its retro aesthetic, so replacements are minimal. Dynamic Sounds, S3maphore, Aaron’s Ambient Rain and Thunder Replacers, and Maxar’s Dynamic Footsteps add ambience and reduce the annoyance of frequently repeated sounds like rain and footsteps.
 
-Steps:
+**Steps**
 
-Download I Heart Vanilla DC:
+*Download I Heart Vanilla DC:*
+
 .\umo.exe reconfig
+
 .\umo.exe setup
+
 .\umo.exe install --sync i-heart-vanilla-directors-cut
+
 .\momw-configurator.exe config --verbose --run-navmeshtool --run-validator i-heart-vanilla-directors-cut
 
-Download Authentic Morrowind:
+*Download Authentic Morrowind:*
+
 .\umo.exe reconfig
+
 .\umo.exe setup
+
 .\umo.exe list add --list-name authentic-morrowind "C:\AuthenticMorrowind\authentic-morrowind.json"
+
 .\umo.exe install --sync authentic-morrowind
 
-Install Authentic Morrowind:
+*Install Authentic Morrowind:*
+
 Run .bat file in Authentic-Morrowind-installer.zip
